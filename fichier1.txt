@@ -1,2 +1,2 @@
 
-Bonjour, ceci est le premier fichier concernant l'exercice de l'activité numero 2.
+Bonjour, ceci est le premier fichier concernant l'exercice de l'activité numero 2. Pour l'instant tout va bien, en espérant que ça continue comme ça.
